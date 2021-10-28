@@ -1,0 +1,90 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Lab 4 C/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/Lab 4 C.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab 4 C.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab 4 C/1.0.0": {
+      "type": "project",
+      "path": "../Lab 4 C/Lab 4 C.csproj",
+      "msbuildProject": "../Lab 4 C/Lab 4 C.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "Lab 4 C >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Я\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Я\\source\\repos\\Lab1 python\\Lab 3 sharp\\Lab 3 sharp.csproj",
+      "projectName": "Lab 3 sharp",
+      "projectPath": "C:\\Users\\Я\\source\\repos\\Lab1 python\\Lab 3 sharp\\Lab 3 sharp.csproj",
+      "packagesPath": "C:\\Users\\Я\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Я\\source\\repos\\Lab1 python\\Lab 3 sharp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Я\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\Я\\source\\repos\\Lab1 python\\Lab 4 C\\Lab 4 C.csproj": {
+              "projectPath": "C:\\Users\\Я\\source\\repos\\Lab1 python\\Lab 4 C\\Lab 4 C.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

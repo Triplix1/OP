@@ -1,0 +1,15 @@
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.exe
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.deps.json
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.runtimeconfig.json
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.runtimeconfig.dev.json
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\ref\Lab 4 C.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\bin\Debug\net5.0\Lab 4 C.pdb
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.AssemblyInfo.cs
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\ref\Lab 4 C.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.pdb
+C:\Users\Я\source\repos\Lab1 python\Lab 4 C\obj\Debug\net5.0\Lab 4 C.genruntimeconfig.cache

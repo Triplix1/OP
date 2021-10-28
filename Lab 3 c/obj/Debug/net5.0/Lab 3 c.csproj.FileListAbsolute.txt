@@ -1,0 +1,16 @@
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.exe
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.deps.json
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.runtimeconfig.json
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.runtimeconfig.dev.json
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\ref\Lab 3 c.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\bin\Debug\net5.0\Lab 3 c.pdb
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.AssemblyInfo.cs
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\ref\Lab 3 c.dll
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.pdb
+C:\Users\Я\source\repos\Lab1 python\Lab 3 c\obj\Debug\net5.0\Lab 3 c.genruntimeconfig.cache
