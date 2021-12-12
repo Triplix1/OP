@@ -1,0 +1,16 @@
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.exe
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.deps.json
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.runtimeconfig.json
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.runtimeconfig.dev.json
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.dll
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\ref\Lab 8.dll
+C:\Users\Я\source\repos\OP\Lab 8\bin\Debug\net5.0\Lab 8.pdb
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.AssemblyInfo.cs
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.dll
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\ref\Lab 8.dll
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.pdb
+C:\Users\Я\source\repos\OP\Lab 8\obj\Debug\net5.0\Lab 8.genruntimeconfig.cache
