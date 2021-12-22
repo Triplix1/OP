@@ -1,0 +1,16 @@
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.exe
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.deps.json
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.runtimeconfig.json
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.runtimeconfig.dev.json
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.dll
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\ref\Lab 9 Sharp.dll
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\bin\Debug\net5.0\Lab 9 Sharp.pdb
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.csproj.AssemblyReference.cache
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.AssemblyInfoInputs.cache
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.AssemblyInfo.cs
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.csproj.CoreCompileInputs.cache
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.dll
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\ref\Lab 9 Sharp.dll
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.pdb
+C:\Users\Я\source\repos\OP\Lab 9 Sharp\obj\Debug\net5.0\Lab 9 Sharp.genruntimeconfig.cache
